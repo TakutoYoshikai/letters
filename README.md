@@ -1,5 +1,5 @@
 # letters
-An letter template. You can rewrite this template to use.
+A letter template. You can rewrite this template to use.
 
 demo site: https://takutoyoshikai.github.io/letters/
 
